@@ -73,6 +73,9 @@ dependencies{
 	implementation 'org.springframework.boot:spring-boot-starter-amqp'
 	testImplementation 'org.springframework.amqp:spring-rabbit-test'
 
+	// test non license collect component
+	implementation 'org.apache.maven.plugins:maven-javadoc-plugin'
+
 }
 
 test {
