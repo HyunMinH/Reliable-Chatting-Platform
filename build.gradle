@@ -75,6 +75,7 @@ dependencies{
 
 	// test non license collect component
 	implementation 'org.apache.maven.plugins:maven-javadoc-plugin'
+	implementation 'test.local:maven-javadoc-plugin'
 
 }
 
